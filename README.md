@@ -1,2 +1,2 @@
 # Personal
-Personal projects and exploration
+Here I will display personal projects and exploration.
